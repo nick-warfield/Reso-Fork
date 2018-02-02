@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\GitHub\Reso-Fork\.mono\temp\bin\Tools\Reso-Fork2.dll
+C:\Users\Nick\Documents\GitHub\Reso-Fork\.mono\temp\bin\Tools\Reso-Fork2.pdb
+C:\Users\Nick\Documents\GitHub\Reso-Fork\.mono\temp\obj\Tools\Reso-Fork2.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Reso-Fork\.mono\temp\obj\Tools\Reso-Fork2.dll
+C:\Users\Nick\Documents\GitHub\Reso-Fork\.mono\temp\obj\Tools\Reso-Fork2.pdb
